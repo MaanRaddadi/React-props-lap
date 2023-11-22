@@ -1,0 +1,36 @@
+.programer-info {
+  border: 1px solid rgb(0, 0, 0);
+  text-align: center;
+  width: 50%;
+  color: rgb(0, 0, 0);
+  background-color: gray;
+  border-radius: 15px;
+}
+.main-container {
+  border: 1px solid rgb(128, 128, 128);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  width: 80%;
+  border-radius: 15px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  align-items: center;
+  flex-direction: column;
+}
+.services-container {
+  border: 1px solid grey;
+}
+.programer-tuwaiq {
+  border: 1px solid grey;
+  text-align: center;
+  width: 50%;
+  background-color: blueviolet;
+  color: black;
+  border-radius: 15px;
+}
